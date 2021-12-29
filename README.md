@@ -1,2 +1,2 @@
-# FarmFluence_Display
-FarmFluemce EC PH Controller
+# python_AtlasOEM_lib
+Library for the Atlas Scientific OEM circuits
